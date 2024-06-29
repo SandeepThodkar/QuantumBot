@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "quantumbot-366a2",
+    "test": "quantumbot-366a2"
+  },
+  "targets": {},
+  "etags": {}
+}
